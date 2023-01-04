@@ -11,8 +11,8 @@ ul {
     color: green;
 }
 button {
-    background: rgb(144, 202, 144);
+    background: none;
+    border: none;
     padding: 10px;
-    color: white;
 }
 
