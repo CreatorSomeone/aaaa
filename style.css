@@ -11,13 +11,8 @@ ul {
     color: green;
 }
 button {
-    background: green;
-    border: none;
-    height: 50px;
-    width: 100px;
-    text-align: center;
+    background: rgb(144, 202, 144);
+    padding: 10px;
     color: white;
-    border-radius: 12px;
-    display: block;
 }
 
