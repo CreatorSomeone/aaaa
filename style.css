@@ -1,40 +1,36 @@
+/* Define the body background color */
 body {
-    background: #ffffff;
-    font-family: Arial, Helvetica, sans-serif;
-}
-h1 {
-    background: #ffffff;
-    color: #000000;
-    padding: 20px;
-}
-ul {
-    color: green;
-}
-button {
-    background: none;
-    border: none;
-    padding: 10px;
+  background-color: #0A0E14;
+  color: white;
+  font-family: Arial, sans-serif;
 }
 
-.collapsible {
-    background-color: #777;
-    color: white;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
-  }
-  
-  .active, .collapsible:hover {
-    background-color: #555;
-  }
-  
-  .content {
-    padding: 0 18px;
-    display: none;
-    overflow: hidden;
-    background-color: #f1f1f1;
-  }
+/* Define the header style */
+header {
+  background-color: #1C2331;
+  padding: 20px;
+}
+
+/* Define the main content style */
+main {
+  background-color: #34495E;
+  padding: 20px;
+}
+
+/* Define the sidebar style */
+aside {
+  background-color: #4E6172;
+  padding: 20px;
+}
+
+/* Define the footer style */
+footer {
+  background-color: #6C7A89;
+  padding: 20px;
+  color: #8D99AE;
+}
+
+/* Define the links style */
+a{
+  color: #D35400;
+}
